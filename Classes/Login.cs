@@ -193,7 +193,7 @@ _________________________________________________
 |--------------------------------------|
 |Nome do produto: {item.NomeProduto}   
 |Marca do produto: {item.marca.NomeMarca}
-|Código do produto: {item.CodigoP}     
+|Código do produto: {item.codigoP}     
 |Preço do produto: {item.Preco:C2}     
 |Cadastrado por: {_nome}                                       
 |--------------------------------------|
