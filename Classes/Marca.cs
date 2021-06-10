@@ -9,7 +9,7 @@ namespace AulaPOO_ProjetoProdutoSENAI.Classes
         public int Codigo { get; set; }
         public string NomeMarca { get; set; }
         public DateTime DataCadastro { get; set; }
-        List<Marca> ListaMarca = new List<Marca>();
+        public List<Marca> ListaMarca = new List<Marca>();
 
         public Marca()
         {
@@ -31,10 +31,10 @@ namespace AulaPOO_ProjetoProdutoSENAI.Classes
 
         public string Deletar(Marca marca)
         {
-            Console.WriteLine($"Qual o nome da marca que você deseja remover?");
-            string MarcaDeletada = Console.ReadLine();
+            
+            
 
-            ListaMarca.RemoveAll(x => x.NomeMarca == MarcaDeletada);
+            ListaMarca.Remove(marca);
             return "Deletado";
         }
 

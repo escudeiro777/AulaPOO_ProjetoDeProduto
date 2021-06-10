@@ -6,21 +6,21 @@ namespace AulaPOO_ProjetoProdutoSENAI.Classes
 {
     public class Produto : IProduto
     {
-        public int Codigo { get; set; }
+        public int CodigoP { get; set; }
         public string NomeProduto { get; set; }
         public float Preco { get; set; }
         public DateTime DataCadastro { get; set; }
         public Marca marca { get; set; }
         public Usuariocs CadastradoPor { get; set; }
         
-         List<Produto> ListaProduto = new List<Produto>(); 
+         public List<Produto> ListaProduto = new List<Produto>(); 
         public Produto()
         {
 
         }
         public Produto(int _codigo, string _nomeproduto, float _preco, Marca _marca, Usuariocs _cadastradopor)  
         {
-            this.Codigo = _codigo;
+            this.CodigoP = _codigo;
             this.NomeProduto = _nomeproduto;
             this.Preco = _preco;
             this.DataCadastro = DateTime.Now;
