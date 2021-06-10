@@ -31,17 +31,11 @@ namespace AulaPOO_ProjetoProdutoSENAI.Classes
 
         public string Deletar(Marca marca)
         {
-<<<<<<< HEAD
             
             
 
             ListaMarca.Remove(marca);
             return "Deletado";
-=======
-           
-            ListaMarca.Remove(marca);
-            return "Marca Deletada";
->>>>>>> 58fc0438afb5d0bf9525e085bf8ce94667795984
         }
 
         public List<Marca> Listar()

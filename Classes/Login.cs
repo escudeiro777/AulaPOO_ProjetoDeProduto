@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 using System;
 using System.Collections.Generic;
 namespace AulaPOO_ProjetoProdutoSENAI.Classes
@@ -248,7 +247,3 @@ _________________________________________________
         }
     }
 }
-=======
-
-
->>>>>>> dcc65523ba0a558ef1e900847c7ed02a3d3e8a89
