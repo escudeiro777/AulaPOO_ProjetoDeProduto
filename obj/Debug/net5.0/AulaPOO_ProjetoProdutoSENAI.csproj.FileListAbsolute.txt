@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\bin\Debug\net5.0\AulaPOO_ProjetoProdutoSENAI.exe
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\bin\Debug\net5.0\AulaPOO_ProjetoProdutoSENAI.deps.json
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\bin\Debug\net5.0\AulaPOO_ProjetoProdutoSENAI.runtimeconfig.json
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\bin\Debug\net5.0\AulaPOO_ProjetoProdutoSENAI.runtimeconfig.dev.json
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\bin\Debug\net5.0\AulaPOO_ProjetoProdutoSENAI.dll
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\bin\Debug\net5.0\ref\AulaPOO_ProjetoProdutoSENAI.dll
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\bin\Debug\net5.0\AulaPOO_ProjetoProdutoSENAI.pdb
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\obj\Debug\net5.0\AulaPOO_ProjetoProdutoSENAI.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\obj\Debug\net5.0\AulaPOO_ProjetoProdutoSENAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\obj\Debug\net5.0\AulaPOO_ProjetoProdutoSENAI.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\obj\Debug\net5.0\AulaPOO_ProjetoProdutoSENAI.AssemblyInfo.cs
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\obj\Debug\net5.0\AulaPOO_ProjetoProdutoSENAI.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\obj\Debug\net5.0\AulaPOO_ProjetoProdutoSENAI.dll
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\obj\Debug\net5.0\ref\AulaPOO_ProjetoProdutoSENAI.dll
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\obj\Debug\net5.0\AulaPOO_ProjetoProdutoSENAI.pdb
+C:\Users\55119\Desktop\AulaPOO_ProjetoProdutoSENAI\obj\Debug\net5.0\AulaPOO_ProjetoProdutoSENAI.genruntimeconfig.cache

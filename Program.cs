@@ -1,4 +1,5 @@
 ﻿using System;
+using AulaPOO_ProjetoProdutoSENAI.Classes;
 
 namespace AulaPOO_ProjetoProdutoSENAI
 {
@@ -6,7 +7,7 @@ namespace AulaPOO_ProjetoProdutoSENAI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Login novoLogin = new Login();
         }
     }
 }
