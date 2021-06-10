@@ -7,7 +7,7 @@ namespace AulaPOO_ProjetoProdutoSENAI
     {
         static void Main(string[] args)
         {
-            Login novoLogin = new Login();
+        
         }
     }
 }
